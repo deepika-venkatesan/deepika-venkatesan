@@ -7,7 +7,7 @@ I thrive on building **efficient, user-friendly web applications** and optimizin
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js, Next.js, JavaScript, HTML, CSS  
 - **Backend:** Node.js, Express.js, Python  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Databases:** Oracle, MySQL, PostgreSQL, MongoDB  
 - **Cloud & DevOps:** AWS (Lambda, API Gateway, S3), Docker  
 - **Other Tools:** Git, Redux, REST APIs, Postman  
 
