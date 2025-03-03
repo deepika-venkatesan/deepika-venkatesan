@@ -1,6 +1,7 @@
 # Hey there! 👋  
 
 I'm **Deepika Venkatesan**, a **Software Engineer** with a passion for **Full-Stack Development, Scalable Systems, and Cloud Technologies**.  
+
 I thrive on building **efficient, user-friendly web applications** and optimizing backend services for **performance and scalability**.
 
 ## 🛠️ Tech Stack  
@@ -20,7 +21,7 @@ I thrive on building **efficient, user-friendly web applications** and optimizin
 - **Validated and fine-tuned LLM responses** to enhance accuracy, coherence, and contextual relevance.  
 - **Developed and tested prompts** for generative AI models, optimizing Python-based interactions.  
 - **Reviewed AI-generated code** in Python, Java, JavaScript, and SQL, ensuring correctness and improving model performance.
-- 
+  
 ### 🔹 **Graduate Teaching Assistant @ NYU**  
 - Assisted in **Database Systems**, guiding students on **Oracle, MySQL, and query optimization**.  
 - Provided **one-on-one mentorship and project support**, enhancing student understanding of data modeling.  
